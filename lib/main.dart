@@ -50,6 +50,14 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
+  int? testLinter(){
+    return null;
+  }
+
+  dynamic testLinter2(){
+    return null;
+  }
+
   void _incrementCounter() {
     setState(() {
       // This call to setState tells the Flutter framework that something has
