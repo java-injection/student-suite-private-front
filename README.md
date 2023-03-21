@@ -1,3 +1,5 @@
+![Flutter CI](https://github.com/java-injection/student-suite-private-front/actions/workflows/main.yml/badge.svg)
+
 # students_suite_private_front
 
 front end for java-injection student suite
